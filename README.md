@@ -1,2 +1,2 @@
-# CodeApha_Project_Rockson_Twum
-My internship project from CodeAlpha
+# _Rockson_Twum_Portfolio
+My personal portfolio where you can view my projects and contact me 
